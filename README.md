@@ -1,1 +1,2 @@
 # Specifics-of-the-dividend-policy-of-Japanese-banks
+In an increasingly integrated global financial space, where asset price trajectories are characterized by significant volatility and increasing stochastic uncertainty, the task of identifying and quantifying exogenous variables that determine the choice of management parameters of banking organizations, primarily in terms of profit distribution and the formation of a dividend policy, is of particular scientific and practical importance.
